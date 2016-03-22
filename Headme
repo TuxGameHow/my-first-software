@@ -1,0 +1,4 @@
+Software para sistema de login BASICO.
+Software Pede usuario para informar senha padrão já definida no bloco "0" da variavel Valor.
+Se senha definida por usuario for igual senha Padão. Software mostra linda mensagem "Parabens vc acertou a senha".
+Se senha definida por usuario não for igual senha Padão. Software pede para usuario informar outra senha ate acertar Senha padão.
