@@ -1,6 +1,6 @@
 /***
  * 
- * Programa que calcule a média de salários de uma empresa, pedindo ao usuário a grade de funcionários e os salários em JOptionPane e devolvendo a média em DOS. 
+ * Programa que calcule a média de salários de uma empresa, pedindo ao usuário a grade de funcionários e os salários.
  * 
  * 1- Criar banco de dados // Imaginagio xD // armazenarei dados em blocos
  * 2- pedir usuario para informar numero de Funcionarios
